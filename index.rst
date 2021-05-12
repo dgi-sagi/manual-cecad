@@ -27,6 +27,8 @@ Tópicos
    _perguntascecad/entrevistador
    _perguntascecad/buscar
    _perguntascecad/baixar
+   _perguntascecad/logincomselo
+   _perguntascecad/selodeconfiabilidade
 
 
 
