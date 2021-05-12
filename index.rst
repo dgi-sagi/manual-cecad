@@ -12,6 +12,8 @@ Tópicos
 
 
    _perguntascecad/oqueh
+   _perguntascecad/logincomselo
+   _perguntascecad/selodeconfiabilidade
    _perguntascecad/painel
    _perguntascecad/menucecad
    _perguntascecad/tabelas
@@ -27,8 +29,6 @@ Tópicos
    _perguntascecad/entrevistador
    _perguntascecad/buscar
    _perguntascecad/baixar
-   _perguntascecad/logincomselo
-   _perguntascecad/selodeconfiabilidade
 
 
 
