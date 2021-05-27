@@ -71,7 +71,7 @@ HISTÓRICO DE DOWNLOADS
 
 Sempre que o usuário autenticado com permissão de acesso aos dados identificados do Cadastro Único baixa alguma base de dados no CECAD, tanto por meio do **TABCAD** como pelas funcionalidades de **BAIXAR**, o download do arquivo não se inicia imediatamente. A solicitação é agendada no sistema, entrando numa fila para extração:
 
-.. figure:: /img/baixar/histórico.jpg
+.. figure:: /img/baixar/historico.jpg
 
    Figura 4: mensagem de confimação da solicitação dos dados
 
