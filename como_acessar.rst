@@ -23,7 +23,7 @@ Após acessar o link do CECAD o usuário será direcionado para a página inicia
 
 Nesta tela, o usuário tem a opção de trocar a agregação territorial de “Brasil”, que é o formato padrão carregado no acesso inicial, para qualquer estado, município ou o Distrito Federal. Para tanto, deve-se clicar no botão :guilabel:`Divisão Territorial` no canto superior esquerdo:
 
-.. figure:: /img/como_acessar/divisãoterritorial.jpg
+.. figure:: /img/como_acessar/divisaoterritorial.jpg
 
    Figura 2 – Botão “Divisão Territorial”
 
@@ -51,7 +51,7 @@ Para acesso ao *Gov.br* clique `aqui <https://www.gov.br/pt-br>`_.
 Caso ainda não possua uma conta de acesso você deverá clicar sobre o botão :guilabel:`Crie sua conta gov.br`. Neste momento, recomendamos que seja utilizado o seu e-mail pessoal mais importante e de uso mais frequente, ou seja, seu melhor e-mail de uso privado.
 Caso já tenha criado uma conta no *Gov.br* antes, basta seguir normalmente com seu login e senha já cadastrados, informando o seu CPF na área **Acesse sua conta com Número de CPF** e, posteriormente, informando a senha cadastrada.
 
-.. figure:: /img/como_acessar/opçõesdecadastro.jpg
+.. figure:: /img/como_acessar/opçoesdecadastro.jpg
 
    Figura 6 – Opções de Cadastro para criação de conta no *Gov.br*
 
@@ -65,7 +65,7 @@ Em caso de dúvidas relacionadas ao login ou à criação de uma conta no *Gov.b
 
 Após a realização do login na plataforma *Gov.br* será apresentada a tela de **Autorização de uso dos dados pessoais** para o serviço CECAD, clique em :guilabel:`Autorizar` para dar sequência ao processo. Sem esta autorização o acesso à ferramenta não poderá ser concedido:
 
-.. figure:: /img/como_acessar/autorização.jpg
+.. figure:: /img/como_acessar/autorizacao.jpg
 
    Figura 8 – Ambiente de Autorização de uso de dados pessoais para término do login
 

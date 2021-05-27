@@ -15,7 +15,7 @@ Série Histórica
 
 Se você selecionar a opção **Série histórica**, terá as seguintes opções:
 
-.. figure:: /img/explorar/opções.jpg
+.. figure:: /img/explorar/opcoes.jpg
 
    Figura 2: opções da funcionalidade **Série Histórica**
 
@@ -65,7 +65,7 @@ Os valores das faixas de renda são atualizados periodicamente e estão definido
 
 Esses são indicadores que o município pode utilizar para verificar mudanças na situação das famílias cadastradas. Todos os relatórios são apresentados em forma de gráfico, como o seguinte, e em tabelas:
 
-.. figure:: /img/explorar/gráfico.jpg
+.. figure:: /img/explorar/grafico.jpg
 
    Figura 5: exemplo de gráfico com dados do Cadastro Único
 
@@ -106,7 +106,7 @@ Programa Bolsa Família
 
 Na opção **Programa Bolsa Família** você terá informações sobre famílias beneficiárias do PBF; valor total dos benefícios; valor médio do benefício; valores e quantidades de benefícios básicos e variáveis; quantidade de benefícios bloqueados e cancelados; acompanhamento de condicionalidades; e quantidade de novas concessões de benefícios. Essas informações são apresentadas com os valores atuais e históricos, bem como com comparativos com maiores e menores valores do país e do estado.
 
-.. figure:: /img/explorar/série.jpg
+.. figure:: /img/explorar/serie.jpg
 
    Figura 6: relatórios disponíveis na opção **Programa Bolsa Família**
 
@@ -183,7 +183,7 @@ Família
 - **Grupos populacionais tradicionais e específicos:** você encontra a quantidade de famílias em todos os grupos populacionais tradicionais e específicos previstos no formulário suplementar 2, campo 2.07;
 - **Número de famílias por quantidade de meses após a data da última atualização cadastral:** com a contagem dos meses decorridos a partir da última atualização, é possível identificar o número de famílias com cadastros desatualizados (a partir de 25 meses), com cadastros próximos a ficarem desatualizados (a partir de 25 meses), com cadastros próximos a ficarem desatualizados (19 a 24 meses) e com cadastros atualizados (abaixo de 24 meses);
 
-  .. figure:: /img/explorar/atualização.jpg
+  .. figure:: /img/explorar/atualizacao.jpg
 
      Figura 11: exemplo de gráfico para a opção **Número de famílias por quantidade de meses após a data da última atualização cadastral**
 
@@ -206,7 +206,7 @@ Pessoa
 - **Distribuição de Responsáveis Familiares por sexo:** você encontra o número de responsáveis familiares homens e mulheres.
 - **RF por grau de instituição:** você encontra o número e a proporção com relação ao total de responsáveis familiares por grau de escolaridade.
 
-  .. figure:: /img/explorar/instrução.jpg
+  .. figure:: /img/explorar/instrucao.jpg
 
      Figura 13: exemplo de gráfico para a opção **RF por grau de instituição**
 
@@ -221,7 +221,7 @@ Pessoa
 
 Ao fazer a busca por uma informação na funcionalidade Frequência, o Cecad disponibiliza um menu com todas as opções de variáveis individuais, de modo que você poderá acessar uma nova informação sem precisar clicar no botão retornar:
 
-.. figure:: /img/explorar/referência.jpg
+.. figure:: /img/explorar/referencia.jpg
 
    Figura 15: lista de variáveis disponíveis
 
