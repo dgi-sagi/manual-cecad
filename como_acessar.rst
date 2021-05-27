@@ -51,7 +51,7 @@ Para acesso ao *Gov.br* clique `aqui <https://www.gov.br/pt-br>`_.
 Caso ainda não possua uma conta de acesso você deverá clicar sobre o botão :guilabel:`Crie sua conta gov.br`. Neste momento, recomendamos que seja utilizado o seu e-mail pessoal mais importante e de uso mais frequente, ou seja, seu melhor e-mail de uso privado.
 Caso já tenha criado uma conta no *Gov.br* antes, basta seguir normalmente com seu login e senha já cadastrados, informando o seu CPF na área **Acesse sua conta com Número de CPF** e, posteriormente, informando a senha cadastrada.
 
-.. figure:: /img/como_acessar/opçoesdecadastro.jpg
+.. figure:: /img/como_acessar/opcoesdecadastro.jpg
 
    Figura 6 – Opções de Cadastro para criação de conta no *Gov.br*
 
