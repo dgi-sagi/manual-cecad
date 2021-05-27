@@ -3,34 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===================
 Tópicos
-===================
+=======
 
 .. toctree::
    :maxdepth: 1
 
-
-   _perguntascecad/oqueh
-   _perguntascecad/logincomselo
-   _perguntascecad/selodeconfiabilidade
-   _perguntascecad/painel
-   _perguntascecad/menucecad
-   _perguntascecad/tabelas
-   _perguntascecad/detalhandofunc
-   _perguntascecad/seriehist
-   _perguntascecad/cadastroun
-   _perguntascecad/bolsafamilia
-   _perguntascecad/igdm
-   _perguntascecad/beneficiopres
-   _perguntascecad/frequencia
-   _perguntascecad/comparacao
-   _perguntascecad/crascreas
-   _perguntascecad/entrevistador
-   _perguntascecad/buscar
-   _perguntascecad/baixar
-
-
-
-
-
+   /o_que_eh
+   /temporalidade
+   /quem_pode_ter_acesso
+   /como_acessar
+   /principais_funcionalidades
+   /tabcad
+   /explorar
+   /buscar
+   /baixar
+   /painel
+   /mais_ferramentas
+   /sigilo
+   /referencia

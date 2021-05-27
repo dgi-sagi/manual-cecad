@@ -20,14 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = u'CECAD'
-copyright = u'2019, felipe.borba'
-author = u'felipe.borba'
+copyright = u'2019-2021 DGI/SAGI'
+author = u'DGI/SAGI'
 
 # The short X.Y version
-version = u''
+# version = u''
 # The full version, including alpha/beta/rc tags
-release = u''
-
+# release = u''
 
 # -- General configuration ---------------------------------------------------
 
@@ -38,19 +37,20 @@ release = u''
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-import sphinx_rtd_theme
+# import sphinx_rtd_theme
 
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.viewcode',
-    'sphinx.ext.githubpages',
+    #     'sphinx.ext.autodoc',
+    #     'sphinx.ext.doctest',
+    #     'sphinx.ext.intersphinx',
+    #     'sphinx.ext.todo',
+    #     'sphinx.ext.coverage',
+    #     'sphinx.ext.mathjax',
+    #     'sphinx.ext.ifconfig',
+    #     'sphinx.ext.viewcode',
+    #     'sphinx.ext.githubpages',
     'sphinx_rtd_theme',
+    'sphinx.ext.autosectionlabel'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -75,10 +75,10 @@ language = 'pt_BR'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store', ]
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+# pygments_style = None
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -97,7 +97,7 @@ html_theme = 'sphinx_rtd_theme'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['img', ]
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -136,12 +136,15 @@ latex_elements = {
     # 'figure_align': 'htbp',
 }
 
+file_name = 'CECAD'
+title = u'Manual do CECAD'
+
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sphinxx.tex', u'sphinxx Documentation',
-     u'felipe.borba', 'manual'),
+    (master_doc, file_name + '.tex', title,
+     author, 'manual'),
 ]
 
 
@@ -150,8 +153,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'CECAD', u'sphinxx Documentation',
-     [author], 1)
+    (master_doc, file_name, title, [author], 1)
 ]
 
 
@@ -161,9 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sphinxx', u'sphinxx Documentation',
-     author, 'sphinxx', 'One line description of project.',
-     'Miscellaneous'),
+    (master_doc, file_name, title, author,
+     'sphinxx', title, 'Miscellaneous'),
 ]
 
 
